@@ -28,7 +28,7 @@ A React application for managing items with CRUD operations using a mock API.
 
 ## Deployment
 
-This application is deployed at: [Insert your deployment URL here]
+This application is deployed at: [[Insert your deployment URL here](https://items-manager-one.vercel.app/)]
 
 ## Local Development
 
